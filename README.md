@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @luisg-csi a Web Developer
+# Hola, soy Luis Gonzalez
+
+- 👋 Hi, I’m a Web Developer
 - 👀 I’m interested in be better than yesterday
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on many projects
